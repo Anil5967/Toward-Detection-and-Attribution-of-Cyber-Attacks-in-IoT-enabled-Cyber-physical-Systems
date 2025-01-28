@@ -1,0 +1,26 @@
+Service Provider
+
+Login,
+Browse and Train & Test Data Sets,  
+View Trained and Tested Accuracy in Bar Chart,  
+View Trained and Tested Accuracy Results,  
+View Prediction Of Cyber Attack Type,  
+View Cyber Attack Type Ratio,  
+Download Trained Data Sets,  
+View Cyber Attack Type Ratio Results,  
+View All Remote Users.
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT CYBER ATTACK TYPE, 
+VIEW YOUR PROFILE.
+
+
+Members
+
+Source_Ip, 
+Destination_Ip, 
+Attack_Details, 
+Prediction.
