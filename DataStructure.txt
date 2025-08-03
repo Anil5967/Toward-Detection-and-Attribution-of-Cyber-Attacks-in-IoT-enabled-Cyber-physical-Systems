@@ -1,0 +1,37 @@
+Toward Detection and Attribution of Cyber-Attacks in IoT-enabled Cyber-physical Systems
+
+IEEE Internet of Things Journal,Volume:8,Issue:17,Issue Date:Sept.1.2021
+
+
+Cyber-attacks, Deep representation learning,
+Cyber threat detection, Cyber threat attribution, Industrial
+Control System, ICS, Cyber-physical systems, Industrial Internet
+of Things (IIoT)
+
+Toward_Detection_and_Attribution_of_CyberAttacks
+
+
+toward_detection_and_attribution_of_cyberattacks
+
+
+cyberattack_detection_Type
+
+Source_Ip
+Destination_Ip
+Attack_Details
+Prediction
+
+
+cyberattack_detection_Type,detection_ratio,detection_accuracy
+
+
+Attacks Type
+
+Reconnaissance
+Exploits
+DoS
+Generic
+Fuzzers
+Worms
+Shellcode
+Backdoors
